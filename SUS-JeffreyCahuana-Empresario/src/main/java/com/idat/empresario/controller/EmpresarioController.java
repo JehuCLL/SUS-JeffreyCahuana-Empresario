@@ -19,7 +19,7 @@ import com.idat.empresario.model.Empresario;
 import com.idat.empresario.service.EmpresarioService;
 
 @Controller
-@RequestMapping("/api/cliente/v1")
+@RequestMapping("/api/empresario/v1")
 public class EmpresarioController 
 {
 	@Autowired
